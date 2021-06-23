@@ -1,0 +1,28 @@
+.Lorem1{
+    width: 50%;
+    height: 500px;
+    background-color: indianred
+}
+.Lorem2{
+    background-color: lightblue;
+    padding: 20px;
+    width: 300px;
+    border: 15px solid navy;
+
+}
+.max-width{
+    max-width: 50%;
+}
+span{
+    background-color: olive;
+}
+.min-width{
+    min-width: 800px;
+    display: inline-block;
+}
+.max-height{
+    min-height: 20px;
+    overflow: auto;
+    border: 10px solid red;
+    padding: 10px;
+}
